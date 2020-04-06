@@ -5,8 +5,8 @@
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <a class="navbar-brand" href="#">AutoBoolScout24</a>
-
+                <img src="{{asset('img/LogoOk.png')}}" width="50" height="50" alt="">
+                <a class="navbar-brand" img src="" href=""> AutoBoolScout24</a>
                 <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
                     <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                         <li class="nav-item active">
@@ -26,7 +26,7 @@
                 </div>
             </nav>
             <div class="jumbotron">
-                <img src="..." class="img-fluid" alt="Responsive image">
+                <img src="{{asset('img/prova.jpg')}}" width="1050" height="550" alt="">
             </div>
         </div>
 @endsection
