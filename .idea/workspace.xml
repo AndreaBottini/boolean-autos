@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d40ee85-397f-4291-b728-1482a0140e17" name="Default Changelist" comment="">
-<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/LogoOk.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/autos/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/autos/index.blade.php" afterDir="false" />
-=======
-      <change beforePath="$PROJECT_DIR$/.idea/boolean-autos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/boolean-autos.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/AutosTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/AutosTableSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/autos/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/autos/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/layout.blade.php" afterDir="false" />
->>>>>>> master
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,11 +173,7 @@
       <workItem from="1585562171743" duration="1767000" />
       <workItem from="1585565322577" duration="277000" />
       <workItem from="1585572746861" duration="476000" />
-<<<<<<< HEAD
-      <workItem from="1586177493761" duration="6265000" />
-=======
-      <workItem from="1586177493761" duration="6017000" />
->>>>>>> master
+      <workItem from="1586177493761" duration="6492000" />
     </task>
     <servers />
   </component>
