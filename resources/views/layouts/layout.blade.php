@@ -8,6 +8,7 @@
     <title>Autos</title>
 </head>
 <body>
+<div class="container">
     @yield('header')
 
     @yield('main')
@@ -15,5 +16,7 @@
     @yield('footer')
 
     @yield('scripts')
+</div>
+
 </body>
 </html>

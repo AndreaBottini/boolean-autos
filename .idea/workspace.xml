@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d40ee85-397f-4291-b728-1482a0140e17" name="Default Changelist" comment="" />
+    <list default="true" id="6d40ee85-397f-4291-b728-1482a0140e17" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/boolean-autos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/boolean-autos.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/AutosTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/AutosTableSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/autos/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/autos/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/layout.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +29,9 @@
   </component>
   <component name="FavoritesManager">
     <favorites_list name="boolean-autos" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -122,9 +136,11 @@
       <path value="$PROJECT_DIR$/vendor/composer" />
       <path value="$PROJECT_DIR$/vendor/phar-io/version" />
       <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/pelmered/fake-car" />
     </include_path>
   </component>
   <component name="ProjectId" id="1ZqDr7inpZueTBXi0wdzYnXSO7F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -158,6 +174,8 @@
       <workItem from="1585561710409" duration="427000" />
       <workItem from="1585562171743" duration="1767000" />
       <workItem from="1585565322577" duration="277000" />
+      <workItem from="1585572746861" duration="476000" />
+      <workItem from="1586177493761" duration="6017000" />
     </task>
     <servers />
   </component>
@@ -169,18 +187,22 @@
       <screen x="0" y="23" width="1680" height="970" />
     </state>
     <state x="211" y="180" width="1063" height="719" key="#Plugins/1680.130.1440.877/0.23.1680.970@0.23.1680.970" timestamp="1585562137492" />
+    <state x="887" y="358" key="NewPhpClassDialog" timestamp="1586177739116">
+      <screen x="0" y="23" width="1680" height="970" />
+    </state>
+    <state x="887" y="358" key="NewPhpClassDialog/1680.130.1440.877/0.23.1680.970@0.23.1680.970" timestamp="1586177739116" />
     <state x="349" y="154" key="SettingsEditor" timestamp="1585564464321">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="349" y="154" key="SettingsEditor/1680.130.1440.820/0.23.1680.1027@0.23.1680.1027" timestamp="1585564464321" />
     <state x="349" y="147" key="SettingsEditor/1680.130.1440.877/0.23.1680.1027@0.23.1680.1027" timestamp="1585559726398" />
     <state x="349" y="147" key="SettingsEditor/1680.130.1440.877/0.23.1680.970@0.23.1680.970" timestamp="1585562759143" />
-    <state x="533" y="372" key="com.intellij.ide.util.TipDialog" timestamp="1585565323538">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state x="533" y="353" key="com.intellij.ide.util.TipDialog" timestamp="1586177495891">
+      <screen x="0" y="23" width="1680" height="970" />
     </state>
     <state x="533" y="357" key="com.intellij.ide.util.TipDialog/1680.107.1440.900/0.0.1680.1050@0.0.1680.1050" timestamp="1585557937103" />
     <state x="533" y="372" key="com.intellij.ide.util.TipDialog/1680.130.1440.820/0.23.1680.1027@0.23.1680.1027" timestamp="1585565323538" />
-    <state x="533" y="353" key="com.intellij.ide.util.TipDialog/1680.130.1440.877/0.23.1680.970@0.23.1680.970" timestamp="1585562176383" />
+    <state x="533" y="353" key="com.intellij.ide.util.TipDialog/1680.130.1440.877/0.23.1680.970@0.23.1680.970" timestamp="1586177495891" />
     <state x="505" y="234" key="run.anything.popup" timestamp="1585561525799">
       <screen x="0" y="23" width="1680" height="970" />
     </state>
