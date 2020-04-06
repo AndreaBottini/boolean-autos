@@ -55,6 +55,7 @@ class AutoController extends Controller
         // $auto->img = $data['img'];
         // $auto->price = $data['price'];
         // $auto->description = $data['description'];
+
         $auto->fill($data);
         $saved = $auto->save();
 
@@ -69,7 +70,7 @@ class AutoController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function show(Auto $auto)
+    public function show(auto $auto)
     {
         return view('autos.show', compact('auto'));
     }
