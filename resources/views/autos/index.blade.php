@@ -33,9 +33,6 @@
 @section('main')
 
 <div class="autos">
-
-
-
     @foreach ($autos as $auto)
     <ul class="list-group">
         <li class="list-group-item"><strong>Marca: {{$auto->producer}}</li>

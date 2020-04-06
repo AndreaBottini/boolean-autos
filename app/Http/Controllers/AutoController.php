@@ -14,7 +14,7 @@ class AutoController extends Controller
      */
     public function index()
     {
-        $autos =Auto::all();
+        $autos = Auto::all();
         // dd($autos);
 
         return view('autos.index', compact('autos'));
@@ -49,14 +49,14 @@ class AutoController extends Controller
             'description' => 'required|string'
             ]);
 
-        $newAuto = New Auto;
-        // $newAuto->producer = $data['producer'];
-        // $newAuto->model = $data['model'];
-        // $newAuto->img = $data['img'];
-        // $newAuto->price = $data['price'];
-        // $newAuto->description = $data['description'];
-        $newAuto->fill($data);
-        $saved = $newAuto->save();
+        $auto = New Auto;
+        // $auto->producer = $data['producer'];
+        // $auto->model = $data['model'];
+        // $auto->img = $data['img'];
+        // $auto->price = $data['price'];
+        // $auto->description = $data['description'];
+        $auto->fill($data);
+        $saved = $auto->save();
 
         if($saved == true) {
             return redirect()->route('autos.index');
@@ -69,9 +69,9 @@ class AutoController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function show($id)
+    public function show(Auto $auto)
     {
-        //
+        return view('autos.show', compact('auto'));
     }
 
     /**

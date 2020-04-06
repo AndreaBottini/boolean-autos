@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d40ee85-397f-4291-b728-1482a0140e17" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LogoOk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/autos/show.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/autos/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/autos/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/AutoController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/AutoController.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,6 +174,7 @@
       <workItem from="1585565322577" duration="277000" />
       <workItem from="1585572746861" duration="476000" />
       <workItem from="1586177493761" duration="6492000" />
+      <workItem from="1586186826027" duration="898000" />
     </task>
     <servers />
   </component>
@@ -195,12 +196,12 @@
     <state x="349" y="154" key="SettingsEditor/1680.130.1440.820/0.23.1680.1027@0.23.1680.1027" timestamp="1585564464321" />
     <state x="349" y="147" key="SettingsEditor/1680.130.1440.877/0.23.1680.1027@0.23.1680.1027" timestamp="1585559726398" />
     <state x="349" y="147" key="SettingsEditor/1680.130.1440.877/0.23.1680.970@0.23.1680.970" timestamp="1585562759143" />
-    <state x="533" y="353" key="com.intellij.ide.util.TipDialog" timestamp="1586177495891">
+    <state x="533" y="353" key="com.intellij.ide.util.TipDialog" timestamp="1586186827526">
       <screen x="0" y="23" width="1680" height="970" />
     </state>
     <state x="533" y="357" key="com.intellij.ide.util.TipDialog/1680.107.1440.900/0.0.1680.1050@0.0.1680.1050" timestamp="1585557937103" />
     <state x="533" y="372" key="com.intellij.ide.util.TipDialog/1680.130.1440.820/0.23.1680.1027@0.23.1680.1027" timestamp="1585565323538" />
-    <state x="533" y="353" key="com.intellij.ide.util.TipDialog/1680.130.1440.877/0.23.1680.970@0.23.1680.970" timestamp="1586177495891" />
+    <state x="533" y="353" key="com.intellij.ide.util.TipDialog/1680.130.1440.877/0.23.1680.970@0.23.1680.970" timestamp="1586186827526" />
     <state x="505" y="234" key="run.anything.popup" timestamp="1585561525799">
       <screen x="0" y="23" width="1680" height="970" />
     </state>
